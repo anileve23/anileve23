@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evelina Rudzinskaitė.
 - 👀 I’m interested in becoming web developer.
-- 🌱 I’m currently learning at Vilnius college - Vilnius University of applied sciences | Software engineering | 3nd course.
+- 🌱 I’m currently learning at Vilnius college - Vilnius University of applied sciences | Software engineering | I'm in my third year.
 - 📫 How to reach me - Evelinarudz@gmail.com
 
 <!---
